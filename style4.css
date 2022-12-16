@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(../image/рм2.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.reg {
+    display: flex;
+    background-color: rgb(249, 249, 249);
+    margin: 100px;
+    width: 1050px;
+    height: 950px;
+    border-radius: 40px;
+}
+.reg-1 {
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    height: 500px;
+    margin: 162px 0px 0px 363px;
+    border-radius: 50px;
+}
+.reg-1-1 {
+    margin: 41px 0px 0px 131px;
+}
+.reg-1-2 {
+    margin: 28px 0px 0px 34px;
+}
+.in-1 {
+    border-radius: 20px;
+    bottom: 20px;
+}

@@ -1,0 +1,201 @@
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(../image/рм2.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.chmo {
+    display: flex;
+    background-color: rgb(249, 249, 249);
+    margin: 100px;
+    width: 1050px;
+    height: 2500px;
+    border-radius: 40px;
+}
+.s {
+    text-decoration: none;
+    color: black;
+}
+.chmo-1 {
+    background-color: rgb(255, 255, 255);
+    margin: 60px 0px 0px 50px;
+    width: 450px;
+    height: 450px;
+    border-radius: 40px;
+}
+.chmo-txt-1 {
+    background-color: rgb(255, 255, 255);
+    margin: 40px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.none-b1 {
+    background-color: none;
+    margin: 60px 0px 0px 50px;
+    width: 450px;
+    height: 450px;
+    border-radius: 40px;
+}
+.chmo-txt-2 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: block;
+    text-align: left;
+    align-items: center;
+}
+.chmo-txt-3 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-4 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-5 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-6 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-img-1 {
+    margin: 0px 0px 0px 40px;
+    border-radius: 25px;
+    width: 110px;
+    height: 110px;
+}
+.chmo-2 {
+    background-color: rgb(255, 255, 255);
+    margin: 60px 0px 0px 35px;
+    border-radius: 40px;
+    width: 450px;
+    height: 450px;
+    display: block;
+}
+.chmo-img-2 {
+    margin: 0px 0px 0px 40px;
+    border-radius: 25px;
+    width: 110px;
+    height: 110px;
+}
+.chmo-txt-11 {
+    background-color: rgb(255, 255, 255);
+    margin: 40px 0px 30px 40px;
+    text-align: left;
+    display: block;
+    align-items: center;
+}
+.chmo-txt-12 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: left;
+    display: block;
+    align-items: center;
+}
+.chmo-txt-13 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-14 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-15 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-16 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-3 {
+    background-color: rgb(255, 255, 255);
+    margin: 550px 0px 0px -934px;
+    border-radius: 40px;
+    width: 450px;
+    height: 450px;
+    display: block;
+}
+.chmo-img-3 {
+    margin: 0px 0px 0px 40px;
+    border-radius: 25px;
+    width: 110px;
+    height: 60px;
+    border-radius: 40px;
+}
+.chmo-txt-17 {
+    background-color: rgb(255, 255, 255);
+    margin: 40px 0px 30px 40px;
+    text-align: left;
+    display: block;
+    align-items: center;
+}
+.chmo-txt-18 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: left;
+    display: block;
+    align-items: center;
+}
+.chmo-txt-19 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-20 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-21 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.chmo-txt-22 {
+    background-color: rgb(255, 255, 255);
+    margin: 20px 0px 30px 40px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}

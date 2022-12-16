@@ -1,0 +1,56 @@
+body {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(../image/рм2.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 100%;
+}
+.karl-v {
+    display: block;
+    background-color: rgb(249, 249, 249);
+    margin: 100px;
+    
+    border-radius: 40px;
+}
+.reg {
+    display: block;
+    background-color: rgb(249, 249, 249);
+    margin: 100px;
+    border-radius: 40px;
+}
+.vd-1 {
+    margin: 100px 100px 0px 100px;
+    border-radius: 10px;
+}
+.vd-2 {
+    width: 900px;
+    height: 600px;
+    margin: 100px 100px 0px 100px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.que {
+    margin: 60px 0px 0px 50px;
+}
+.que-1 {
+    font-size: 30px;
+    margin: 70px 0px 50px 90px;
+}
+.que-2 {
+    font-size: 30px;
+    margin: 70px 0px 50px 90px;
+}
+.que-2-1 {
+    margin: 1000px 0px 0px 100px;
+}
+.det {
+    margin: 0px 0px 50px 90px;
+    font-size: 20px;
+    transition-duration:inherit;
+}
