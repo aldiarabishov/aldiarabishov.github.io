@@ -199,3 +199,17 @@ body {
     display: flex;
     align-items: center;
 }
+@media screen and (max-width:400px) {
+    .chmo-1 {
+        margin: 464px 0px 0px 295px;
+    }
+    .s {
+       margin: 0px 0px 0px 0px; 
+    }
+    .chmo-2 {
+        margin: 0px 0px 0px -457px;
+    }
+    .chmo-3 {
+        margin: 916px 0px 0px -436px;
+    }
+}
